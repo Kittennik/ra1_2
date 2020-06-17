@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ra1_2/static/css/main.e3548bff.chunk.css",
+    "main.js": "/ra1_2/static/js/main.22d9a812.chunk.js",
+    "main.js.map": "/ra1_2/static/js/main.22d9a812.chunk.js.map",
+    "runtime-main.js": "/ra1_2/static/js/runtime-main.2c75ce3b.js",
+    "runtime-main.js.map": "/ra1_2/static/js/runtime-main.2c75ce3b.js.map",
+    "static/js/2.b7bd71de.chunk.js": "/ra1_2/static/js/2.b7bd71de.chunk.js",
+    "static/js/2.b7bd71de.chunk.js.map": "/ra1_2/static/js/2.b7bd71de.chunk.js.map",
+    "index.html": "/ra1_2/index.html",
+    "precache-manifest.bb5b95bae966b525f125c0f4ce769e49.js": "/ra1_2/precache-manifest.bb5b95bae966b525f125c0f4ce769e49.js",
+    "service-worker.js": "/ra1_2/service-worker.js",
+    "static/css/main.e3548bff.chunk.css.map": "/ra1_2/static/css/main.e3548bff.chunk.css.map",
+    "static/js/2.b7bd71de.chunk.js.LICENSE.txt": "/ra1_2/static/js/2.b7bd71de.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ra1_2/static/media/item-blue.8bcbdffe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c75ce3b.js",
+    "static/js/2.b7bd71de.chunk.js",
+    "static/css/main.e3548bff.chunk.css",
+    "static/js/main.22d9a812.chunk.js"
+  ]
+}
